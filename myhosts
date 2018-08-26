@@ -1,4 +1,61 @@
 # Custom host records are listed here.
 
+#Diskwarrior
+127.0.0.1 www.alsoft.com
+127.0.0.1 updates.alsoft.com   
+
+#Adobe
+0.0.0.0   3dns-2.adobe.com
+0.0.0.0   3dns-3.adobe.com
+0.0.0.0   activate-sea.adobe.com
+0.0.0.0   activate-sjc0.adobe.com
+0.0.0.0   activate.adobe.com
+0.0.0.0   activate.wip3.adobe.com
+0.0.0.0   adobe-dns-2.adobe.com
+0.0.0.0   adobe-dns-3.adobe.com
+0.0.0.0   adobe-dns.adobe.com
+0.0.0.0   api.typekit.com
+0.0.0.0   armmf.adobe.com
+0.0.0.0   dns-2.adobe.com
+0.0.0.0   dns-3.adobe.com
+0.0.0.0   ereg.adobe.com
+0.0.0.0   ereg.wip3.adobe.com
+0.0.0.0   genuine.adobe.com
+0.0.0.0   hbrcv.adobe.com
+0.0.0.0   hl2rcv.adobe.com
+0.0.0.0   hlrcv.stage.adobe.com
+0.0.0.0   ims-na1-prprod.adobelogin.com
+0.0.0.0   lm.licenses.adobe.com
+0.0.0.0   lmlicenses.wip4.adobe.com
+0.0.0.0   na1r.services.adobe.com
+0.0.0.0   na2m-pr.licenses.adobe.com
+0.0.0.0   na4r.services.adobe.com
+0.0.0.0   practivate.adobe.com
+0.0.0.0   prod.adobegenuine.com
+0.0.0.0   uds.licenses.adobe.com
+0.0.0.0   wip3.adobe.com
+0.0.0.0   wwis-dubc1-vip60.adobe.com
+0.0.0.0   www.genuine.adobe.com
+## Part 2
+127.0.0.1 activate.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
+127.0.0.1 hl2rcv.adobe.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 na2m-pr.licenses.adobe.com
+
+# end Adobe
 
 # End of custom host records.
